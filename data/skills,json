@@ -1,0 +1,82 @@
+[
+  {
+    "id": "skill1",
+    "name": "Network Security",
+    "description": "Expertise in designing, implementing, and managing secure networks, including firewall configuration and intrusion detection systems.",
+    "rating": 5,
+    "associatedProjects": ["project1", "project2"],
+    "experienceLevel": "Advanced"
+  },
+  {
+    "id": "skill2",
+    "name": "Penetration Testing",
+    "description": "Skilled in conducting vulnerability assessments, ethical hacking, and penetration tests to uncover security weaknesses.",
+    "rating": 5,
+    "associatedProjects": ["project1"],
+    "experienceLevel": "Advanced"
+  },
+  {
+    "id": "skill3",
+    "name": "Cloud Security",
+    "description": "Experienced in securing cloud infrastructures across platforms such as AWS, Azure, and GCP.",
+    "rating": 4,
+    "associatedProjects": [],
+    "experienceLevel": "Intermediate"
+  },
+  {
+    "id": "skill4",
+    "name": "Incident Response",
+    "description": "Expert in identifying, analyzing, and responding to security incidents with effective mitigation techniques.",
+    "rating": 4,
+    "associatedProjects": ["project2"],
+    "experienceLevel": "Advanced"
+  },
+  {
+    "id": "skill5",
+    "name": "Forensics Analysis",
+    "description": "Ability to analyze and interpret digital evidence to support forensic investigations.",
+    "rating": 4,
+    "associatedProjects": [],
+    "experienceLevel": "Intermediate"
+  },
+  {
+    "id": "skill6",
+    "name": "Python Scripting",
+    "description": "Proficient in automating tasks and developing security tools using Python.",
+    "rating": 5,
+    "associatedProjects": ["project1", "project2"],
+    "experienceLevel": "Advanced"
+  },
+  {
+    "id": "skill7",
+    "name": "Encryption Techniques",
+    "description": "Familiar with modern cryptographic protocols to secure data during transmission and storage.",
+    "rating": 4,
+    "associatedProjects": [],
+    "experienceLevel": "Intermediate"
+  },
+  {
+    "id": "skill8",
+    "name": "Vulnerability Assessment",
+    "description": "Skilled in identifying, quantifying, and prioritizing vulnerabilities in IT infrastructures.",
+    "rating": 5,
+    "associatedProjects": ["project2"],
+    "experienceLevel": "Advanced"
+  },
+  {
+    "id": "skill9",
+    "name": "Risk Management",
+    "description": "Experienced in assessing and mitigating risks associated with cybersecurity threats.",
+    "rating": 4,
+    "associatedProjects": [],
+    "experienceLevel": "Intermediate"
+  },
+  {
+    "id": "skill10",
+    "name": "Security Auditing",
+    "description": "Proficient in conducting detailed security audits to ensure compliance with industry standards.",
+    "rating": 4,
+    "associatedProjects": [],
+    "experienceLevel": "Intermediate"
+  }
+]

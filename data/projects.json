@@ -1,0 +1,36 @@
+[
+    {
+      "id": "project1",
+      "title": "Penetration Testing Toolkit",
+      "description": "A comprehensive toolkit for penetration testing, vulnerability scanning, and reporting.",
+      "associatedSkills": [
+        "skill1",
+        "skill2",
+        "skill6",
+        "skill5",
+        "skill7",
+        "skill4",
+        "skill3",
+        "skill8",
+        "skill9",
+        "skill10"
+      ],
+      "link": "https://example.com/penetration-testing-toolkit",
+      "image": "assets/images/project1.png"
+    },
+    {
+      "id": "project2",
+      "title": "Intrusion Detection System",
+      "description": "Development of an IDS that analyzes network traffic in real time to detect anomalies.",
+      "associatedSkills": [
+        "skill1",
+        "skill6",
+        "skill4",
+        "skill8",
+        "skill10"
+      ],
+      "link": "https://example.com/intrusion-detection-system",
+      "image": "assets/images/project2.png"
+    }
+  ]
+  

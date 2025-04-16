@@ -1,0 +1,30 @@
+[
+    {
+      "id": "edu1",
+      "institution": "University of Toronto",
+      "degree": "Bachelor of Science in Computer Science",
+      "fieldOfStudy": "Cyber Security and Information Technology",
+      "startYear": "2019",
+      "endYear": "2023",
+      "gpa": "3.8",
+      "relevantSkills": [
+        "skill1",
+        "skill2",
+        "skill6"
+      ]
+    },
+    {
+      "id": "edu2",
+      "institution": "Online Certification Academy",
+      "degree": "Diploma",
+      "fieldOfStudy": "Network Security",
+      "startYear": "2021",
+      "endYear": "2022",
+      "gpa": "",
+      "relevantSkills": [
+        "skill1",
+        "skill8"
+      ]
+    }
+  ]
+  

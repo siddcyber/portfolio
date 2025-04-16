@@ -1,0 +1,28 @@
+[
+    {
+      "id": "exp1",
+      "role": "Cyber Security Analyst",
+      "company": "TechSecure Inc.",
+      "duration": "Jan 2023 - Present",
+      "description": "Monitoring network traffic, performing vulnerability assessments, and managing incident responses.",
+      "associatedSkills": [
+        "skill1",
+        "skill4",
+        "skill8",
+        "skill9",
+        "skill10"
+      ]
+    },
+    {
+      "id": "exp2",
+      "role": "IT Security Intern",
+      "company": "SecureIT Solutions",
+      "duration": "Jun 2022 - Dec 2022",
+      "description": "Assisted in the configuration of firewalls, performed penetration tests, and maintained security logs.",
+      "associatedSkills": [
+        "skill2",
+        "skill1"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+[
+    {
+      "id": "cert1",
+      "title": "Certified Ethical Hacker (CEH)",
+      "issuingOrganization": "EC-Council",
+      "issueDate": "2023-03",
+      "expirationDate": "2026-03",
+      "link": "https://example.com/ceh-certificate",
+      "associatedSkills": [
+        "skill2",
+        "skill6"
+      ]
+    },
+    {
+      "id": "cert2",
+      "title": "CompTIA Security+",
+      "issuingOrganization": "CompTIA",
+      "issueDate": "2022-11",
+      "expirationDate": "2025-11",
+      "link": "https://example.com/securityplus-certificate",
+      "associatedSkills": [
+        "skill1",
+        "skill4",
+        "skill8"
+      ]
+    }
+  ]
+  
